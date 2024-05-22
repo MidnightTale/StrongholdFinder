@@ -1,0 +1,5 @@
+name: StrongholdFinder
+version: '${version}'
+main: net.hynse.strongholdfinder.StrongholdFinder
+api-version: '1.20'
+folia-supported: true
